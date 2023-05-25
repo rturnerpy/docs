@@ -1,6 +1,11 @@
 Contributing to Read the Docs
 =============================
 
+|Documentation Status|
+
+.. |Documentation Status| image:: vertopal_5dc4cdb75ab745ad88e78a15fb5a1275/953c326c10eb69335c02e3ea0216a2929daa276f.svg
+   :target: https://skarletastro.readthedocs.io/es/latest/?badge=latest
+
 Are you here to help on Read the Docs? Awesome! |:heart:|
 
 Read the Docs, and all of it's related projects, are all community maintained,
